@@ -32,7 +32,7 @@
 
     },
     mounted() {
-
+      
     },
     methods: {
 

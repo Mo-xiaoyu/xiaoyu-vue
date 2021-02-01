@@ -7,9 +7,18 @@
 <script>
 export default {
   name: 'HelloWorld',
+  mixins: [],
   props: {
     msg: String
-  }
+  },
+  components: {},
+  data() {
+    return {
+
+    }
+  },
+  mounted() {},
+  methods: {}
 }
 </script>
 
